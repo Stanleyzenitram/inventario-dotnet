@@ -1,0 +1,58 @@
+C:\Users\hidal\source\repos\inventario\utilidades\bin\Debug\utilidades.dll
+C:\Users\hidal\source\repos\inventario\utilidades\bin\Debug\utilidades.pdb
+C:\Users\hidal\source\repos\inventario\utilidades\obj\Debug\utilidades.csproj.CoreCompileInputs.cache
+C:\Users\hidal\source\repos\inventario\utilidades\obj\Debug\utilidades.dll
+C:\Users\hidal\source\repos\inventario\utilidades\obj\Debug\utilidades.pdb
+C:\Users\hidal\source\repos\inventario\utilidades\obj\Debug\utilidades.label.resources
+C:\Users\hidal\source\repos\inventario\utilidades\obj\Debug\utilidades.csproj.GenerateResource.cache
+C:\Users\hidal\source\repos\inventario\utilidades\obj\Debug\utilidades.boton.resources
+C:\Users\hidal\source\repos\inventario\utilidades\obj\Debug\utilidades.textbox.resources
+C:\Users\hidal\source\repos\inventario\utilidades\obj\Debug\utilidades.textbox2.resources
+C:\Users\hidal\source\repos\inventario\utilidades\obj\Debug\utilidades.csproj.AssemblyReference.cache
+C:\Users\hidal\source\repos\inventario\utilidades\obj\Debug\utilidades.labelbase.resources
+C:\Users\stanl\Downloads\inventario120222\utilidades\bin\Debug\utilidades.dll
+C:\Users\stanl\Downloads\inventario120222\utilidades\bin\Debug\utilidades.pdb
+C:\Users\stanl\Downloads\inventario120222\utilidades\obj\Debug\utilidades.csproj.AssemblyReference.cache
+C:\Users\stanl\Downloads\inventario120222\utilidades\obj\Debug\utilidades.boton.resources
+C:\Users\stanl\Downloads\inventario120222\utilidades\obj\Debug\utilidades.label.resources
+C:\Users\stanl\Downloads\inventario120222\utilidades\obj\Debug\utilidades.labelbase.resources
+C:\Users\stanl\Downloads\inventario120222\utilidades\obj\Debug\utilidades.textbox.resources
+C:\Users\stanl\Downloads\inventario120222\utilidades\obj\Debug\utilidades.textbox2.resources
+C:\Users\stanl\Downloads\inventario120222\utilidades\obj\Debug\utilidades.csproj.GenerateResource.cache
+C:\Users\stanl\Downloads\inventario120222\utilidades\obj\Debug\utilidades.csproj.CoreCompileInputs.cache
+C:\Users\stanl\Downloads\inventario120222\utilidades\obj\Debug\utilidades.dll
+C:\Users\stanl\Downloads\inventario120222\utilidades\obj\Debug\utilidades.pdb
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.csproj.AssemblyReference.cache
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.boton.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.label.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.labelbase.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.textbox.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.textbox2.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.csproj.GenerateResource.cache
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.csproj.CoreCompileInputs.cache
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.pdb
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\utilidades.dll.config
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\utilidades.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\utilidades.pdb
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\BouncyCastle.Crypto.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\Google.Protobuf.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\K4os.Compression.LZ4.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\K4os.Hash.xxHash.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\MySql.Data.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\System.Buffers.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\System.Memory.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\Ubiety.Dns.Core.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\ZstdNet.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\Google.Protobuf.pdb
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\Google.Protobuf.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\K4os.Compression.LZ4.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\K4os.Hash.xxHash.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\MySql.Data.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\System.Buffers.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\System.Memory.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\utilidades\obj\Debug\utilidades.csproj.CopyComplete

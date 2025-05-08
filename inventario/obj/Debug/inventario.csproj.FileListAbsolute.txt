@@ -1,0 +1,434 @@
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\inventario.exe.config
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\inventario.exe
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\inventario.pdb
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.Form1.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.Properties.Resources.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.csproj.GenerateResource.cache
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.csproj.CoreCompileInputs.cache
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.exe
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.pdb
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\utilidades.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\utilidades.pdb
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.csproj.CopyComplete
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.FormBase.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.Consultas.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.Reportes.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.Menu.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.Procesos.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.mantenimientos.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.matenimientodepartamentos.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.Form2.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.mantenimientoclietnes.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.consultadepartamentos.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\RdlCompile.cache
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\RdlCompile.compiled
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.ventas.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.menuprincipal.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.menuuuuuu.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.menuppppp.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.herencia1.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.pruebaformbase.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.Form3.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.Form4.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.MDIParent1.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.login.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.MDIParent2.resources
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\EnvDTE.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\stdole.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\EnvDTE80.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\VSLangProj.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\VSLangProj80.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\VSLangProj2.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.exe.config
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.NewFolder1.menunew.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.examenp1.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.consultaclientes2.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.mantesuplidpores.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.consultaunidades.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.matenimientounidades.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.compras.resources
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.csproj.AssemblyReference.cache
+C:\Users\hidal\source\repos\inventario\inventario\obj\Debug\inventario.mantdepartamentos.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\inventario.exe.config
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\inventario.exe
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\inventario.pdb
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\utilidades.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\EnvDTE.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\stdole.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\Microsoft.MSXML.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\utilidades.pdb
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.csproj.AssemblyReference.cache
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.consultaclientes2.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.consultaunidades.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.consultadepartamentos.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.Consultas.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.examenp1.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.Form1.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.Form2.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.Form3.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.Form4.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.FormBase.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.herencia1.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.login.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.mantdepartamentos.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.mantenimientoclietnes.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.mantenimientos.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.mantesuplidpores.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.matenimientounidades.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.matenimientodepartamentos.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.MDIParent1.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.MDIParent2.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.Menu.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.menuppppp.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.menuprincipal.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.menuuuuuu.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.NewFolder1.menunew.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.Procesos.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.Properties.Resources.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.pruebaformbase.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.Reportes.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.compras.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.ventas.resources
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.csproj.GenerateResource.cache
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.csproj.CoreCompileInputs.cache
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.csproj.CopyComplete
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.exe
+C:\Users\stanl\Downloads\inventario120222\inventario\obj\Debug\inventario.pdb
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\inventario.exe.config
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\inventario.exe
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\inventario.pdb
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\utilidades.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\EnvDTE.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\stdole.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Microsoft.MSXML.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\utilidades.pdb
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.csproj.AssemblyReference.cache
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.consultaunidades.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.consultadepartamentos.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.Consultas.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.examenp1.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.Form1.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.Form2.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.Form3.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.Form4.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.FormBase.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.login.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.mantenimientos.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.matenimientounidades.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.matenimientodepartamentos.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.Menu.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.Procesos.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.Properties.Resources.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.compras.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.ventas.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.csproj.GenerateResource.cache
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.csproj.CoreCompileInputs.cache
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.csproj.CopyComplete
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.exe
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.pdb
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\MySql.Data.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Google.Protobuf.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\ZstdNet.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\BouncyCastle.Crypto.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Ubiety.Dns.Core.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\System.Memory.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\System.Buffers.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\K4os.Compression.LZ4.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\K4os.Hash.xxHash.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\utilidades.dll.config
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\MySql.Data.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Google.Protobuf.pdb
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Google.Protobuf.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\System.Memory.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\System.Buffers.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\K4os.Compression.LZ4.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\K4os.Hash.xxHash.xml
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.consultaClientes.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.mantenimientoclientes.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.mantUnidades.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.consultaSuplidores.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.mantSuplidores.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.consultaProductos.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.mantProducto.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Interop.WMPLib.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\AxInterop.WMPLib.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\Interop.WMPLib.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\AxInterop.WMPLib.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.csproj.ResolveComReference.cache
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\RdlCompile.cache
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\RdlCompile.compiled
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.Reportes.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.reportviewer.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.Examen2.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.consultaExamen.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.consultaUsuarios.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\obj\Debug\inventario.mantUsuarios.resources
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Newtonsoft.Json.dll
+D:\shit\UTESA\CICLO 7\PROG 3\INVENTARIO\inventario\bin\Debug\Newtonsoft.Json.xml
